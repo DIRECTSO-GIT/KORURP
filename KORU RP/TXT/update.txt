@@ -1,0 +1,15 @@
+KORURP ADMİN PANELİ (Süre Sistemi) AÇLIK SÜRESİ
+OYUNCU PANELİ (Süre Sistemi) AÇLIK SÜRESİ
+HER 40 SANİYEDE %1 AÇLIK AZALICAK
+
+(SİSTEM GÜNCELLENENE KADAR ELLE SÜRE TUTULUCAK)
+ 
+KORURP/MARKET/YEMEKLER (Yemek Fiyat Listesi)
+
+- Burger + Su = 50 RP
+
+EKELNİCEKLER
+
+- Yemek Marketi
+- Arsa Marketi
+- Normal Eşya Marketi
