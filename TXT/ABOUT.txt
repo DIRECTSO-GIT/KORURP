@@ -1,0 +1,8 @@
+1 : KEREM
+2 : TOPRAK
+3 : EMRE
+4 : YAVUZ
+5 : EFE
+6 : AYKUT
+7 : İREM
+8 : EZGİ

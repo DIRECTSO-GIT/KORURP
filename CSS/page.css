@@ -1,0 +1,21 @@
+
+
+iframe {
+    height: 100%;
+    width: 100%;
+    border: none;
+    background-color:#ffffff00;
+}
+
+.newgame, .newgame-old .options, .menu, .credits {
+    display: none;
+}
+
+
+
+.page-content {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
